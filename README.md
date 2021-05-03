@@ -1,13 +1,13 @@
 <img src="https://github.com/sdsna/2018GlobalIndex/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
-# US CITIES SDG INDEX AND DASHBOARDS REPORT 2019  
-## 2019 US Cites Sustainable Development Report 
-US Cty-level data from 2019 Index and Dashboards
+# In the Red: The Failure of the US to Deliver on the Promise of Inequality  
+## SDSN USA 2021
+US state level data from report and data visualization
 
 ## Report Description
+To explore the data, see [us-inequality.sdgindex.org](us-inequality.sdgindex.org)
 
-
-For more information on this report, see www.sustainabledevelopment.report/2019USCities
+For more information on this report, see https://www.sdsnusa.org/publication/inthered 
 
 For data from our other projects, see https://github.com/sdsna.
 
@@ -15,12 +15,12 @@ For data from our other projects, see https://github.com/sdsna.
 
 The data is distributed 2 files, 1) data in Excel and Stata format and 2) a codebook in Excel format. 
 
-1. Cross-sectional data from most recent year, US Cities Index Results 2019, available in [Excel](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.xlsx) and [Stata](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.dta) format.
+1. Cross-sectional data from most recent year, 2021 In the Red: The US Failure to Deliver on a Promise of Racial Inequality, available in [Excel](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.xlsx) and [Stata](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesIndexResults.dta) format.
 2. A [codebook](https://github.com/sdsna/2019USCitiesIndex/blob/master/Codebook.xlsx) containing variable source and metatadata
 
 ## Methodology
 
-The [Methodology](https://github.com/sdsna/2019USCitiesIndex/blob/master/2019USCitiesMethodology.pdf) from the 2019 US Cities Index. 
+The [Methodology](https://us-inequality.sdgindex.org) from the 2021 In the Red report and data visualization. 
 
 ## License
 
