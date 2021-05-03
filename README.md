@@ -27,7 +27,7 @@ The [Methodology](https://us-inequality.sdgindex.org) from the 2021 In the Red r
 By downloading the data, you hereby agree to all of the terms specified in this [license](https://github.com/sdsna).
 
 ## Colophon
-Citation: Lynch, A., Bond, H. 2021. In the Red: The US Failure to Deliver on a Promise of Racial Inequality. New York: SDSN.
+Citation: Lynch, A., Bond, H., Sachs, J. 2021. In the Red: The US Failure to Deliver on a Promise of Racial Inequality. New York: SDSN.
 
 ## Endmatter
 
