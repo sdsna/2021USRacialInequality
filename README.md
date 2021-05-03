@@ -1,6 +1,6 @@
 <img src="https://github.com/sdsna/2018GlobalIndex/blob/master/SDSN_logo.jpg" width="500" alt="SDSN Logo">
 
-# In the Red: The Failure of the US to Deliver on the Promise of Inequality  
+# In the Red: the US Faillure to Deliver on the Promise of Racial Equality  
 ## SDSN USA 2021
 US state level data from report and data visualization
 
