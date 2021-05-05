@@ -16,7 +16,7 @@ For data from our other projects, see https://github.com/sdsna.
 The data is distributed 2 files, 1) data in Excel format and 2) a codebook in Excel format. 
 
 1. Cross-sectional data from most recent year, 2021 In the Red: The US Failure to Deliver on a Promise of Racial Inequality, available in [Excel](https://github.com/sdsna/2021USRacialInequality/blob/master/IntheRedDataDownload.xlsx) format.
-2. A [codebook](https://github.com/sdsna/2021USRacialInequality/blob/master/InTheRedSourcesThresholdsDefinitions.xlsx) containing variable source and metatadata
+2. A [codebook](https://github.com/sdsna/2021USRacialInequality/blob/master/InTheRedSourcesThresholdsDefinitions.xlsx) containing variable source and metatadata.
 
 ## Methodology
 
